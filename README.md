@@ -1,13 +1,64 @@
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/finalb055/finalb055/assets/138676849/07c7fff7-bb39-4b46-bdb9-275fa242728d" alt="gif" width="700" height="400">
-  <div>
-    👋 Hi, I’m @finalb055<br>
-    👀 I’m interested in ...<br>
-    🌱 I’m currently learning ...<br>
-    💞️ I’m looking to collaborate on ...<br>
-    📫 How to reach me ...
-  </div>
-</div>
+
+<p align="center">
+  <img src="https://github.com/finalb055/finalb055/assets/138676849/07c7fff7-bb39-4b46-bdb9-275fa242728d" alt="gif" width="700" height="400" align="center">
+</p>
+<p align="center">
+  -
+  <a href="finalboss@skiff.com">📫 email</a>
+  -
+</p>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=BvjN
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 ---
 
